@@ -12,6 +12,9 @@ views:
     order:
       - file.name
       - Currently Playing
+    sort:
+      - property: Currently Playing
+        direction: ASC
   - type: cards
     name: View
     order:

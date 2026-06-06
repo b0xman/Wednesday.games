@@ -1,5 +1,5 @@
 ---
 Currently Playing: "[[Farziduke]]"
 ---
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[[quartz/content/Index|Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 # Previous Characters
