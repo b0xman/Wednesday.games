@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder == "Characters_NPCs"
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Card View
+    cardSize: 140

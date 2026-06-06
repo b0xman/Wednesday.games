@@ -1,0 +1,6 @@
+views:
+  - type: list
+    name: View
+    filters:
+      and:
+        - file.folder == "Locations"

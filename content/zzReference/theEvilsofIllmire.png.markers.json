@@ -1,0 +1,109 @@
+{
+  "size": {
+    "w": 365,
+    "h": 441
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_x8wmg9",
+      "x": 0.6010028653295129,
+      "y": 0.5468423117154811,
+      "layer": "default",
+      "link": "Illmire",
+      "iconKey": "Home",
+      "tooltip": "",
+      "anchorSpace": "viewport",
+      "hudX": 419.5,
+      "hudY": 261.390625,
+      "hudModeX": "right",
+      "hudModeY": "bottom",
+      "hudLastWidth": 698,
+      "hudLastHeight": 478,
+      "iconColor": "#82842a"
+    },
+    {
+      "type": "pin",
+      "id": "marker_l8ta4d",
+      "x": 0.6761477617928584,
+      "y": 0.7142063284518828,
+      "layer": "default",
+      "link": "Lumberjack Camp",
+      "iconKey": "Location",
+      "tooltip": "Lumberjack Camp"
+    },
+    {
+      "type": "pin",
+      "id": "marker_z36one",
+      "x": 0.4966842437095202,
+      "y": 0.6305243200836821,
+      "layer": "default",
+      "link": "Misty Lake",
+      "iconKey": "Hazard",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_q184cx",
+      "x": 0.8581389350604689,
+      "y": 0.6284322698744769,
+      "layer": "default",
+      "link": "Carnival",
+      "iconKey": "Point of Interest",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ttqcx5",
+      "x": 0.6761477617928584,
+      "y": 0.19537787656903763,
+      "layer": "default",
+      "link": "Obsidian Forge",
+      "iconKey": "Location",
+      "tooltip": "",
+      "iconColor": "#74255f"
+    },
+    {
+      "type": "pin",
+      "id": "marker_v81vrr",
+      "x": 0.19842093196538085,
+      "y": 0.5468423117154811,
+      "layer": "default",
+      "link": "Sorcerer Tower",
+      "iconKey": "Hazard",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "zzReference/theEvilsofIllmire.png",
+      "name": "The Evils of Illmire Map"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "zzReference/theEvilsofIllmire.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

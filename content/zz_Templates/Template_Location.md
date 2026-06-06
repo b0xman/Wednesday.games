@@ -1,0 +1,18 @@
+---
+tags:
+  - Location
+---
+# {{title}}
+
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+
+### Description
+
+### Notes
+
+# Characters
+
+# Challenges
+
+- [ ] 
+
