@@ -1,4 +1,20 @@
 
+```base
+views:
+  - type: leaflet-map
+    name: Map
+    mapName: Evils of Illmire
+    image: [[theEvilsofIllmire.png]]
+    height: 400
+    minZoom: -1.5
+    maxZoom: 2
+    defaultZoom: -0.3
+    zoomDelta: 0.25
+    scale: "0.2"
+    unit: km
+```
+
+
 ```leaflet
 id: leaflet-map
 image: [[theEvilsofIllmire.png]]

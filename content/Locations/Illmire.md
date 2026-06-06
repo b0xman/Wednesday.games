@@ -1,6 +1,8 @@
 ---
 tags:
   - Location
+marker:
+  - coordinates: 200, 249
 ---
 # Illmire
 
