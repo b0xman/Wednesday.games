@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.folder == "content/Characters_NPCs"
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Card View
+    filters:
+      and:
+        - Location == link("Lumberjack Camp")
+    cardSize: 140

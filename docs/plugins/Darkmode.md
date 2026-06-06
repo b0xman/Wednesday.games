@@ -14,7 +14,7 @@ Dark mode toggle.
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
-See [[plugins/Darkmode]] for detailed usage information.
+See [[Darkmode]] for detailed usage information.
 
 ## Configuration
 

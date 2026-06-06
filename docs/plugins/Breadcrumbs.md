@@ -14,7 +14,7 @@ Navigation breadcrumb trail.
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
-See [[plugins/Breadcrumbs]] for detailed usage information.
+See [[Breadcrumbs]] for detailed usage information.
 
 ## Configuration
 

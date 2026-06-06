@@ -61,4 +61,4 @@ The TUI uses standard terminal navigation keys:
 
 All changes made within the TUI are written directly to your `quartz.config.yaml` file. It is a good practice to have a clean Git state before using the TUI so you can easily review and undo any changes it makes.
 
-For command-line based plugin management, see [[cli/plugin|quartz plugin]].
+For command-line based plugin management, see [[docs/cli/plugin|quartz plugin]].

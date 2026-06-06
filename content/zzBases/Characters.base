@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "Characters_NPCs"
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: table
+    order:
+      - file.name
+      - Location
+    sort:
+      - property: Location
+        direction: ASC

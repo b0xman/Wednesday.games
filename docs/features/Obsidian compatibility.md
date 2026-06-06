@@ -186,8 +186,8 @@ Links using the `obsidian://` protocol are marked with a CSS class (`obsidian-ur
 Video files can be embedded using standard image syntax:
 
 ```markdown
-![](video.mp4)
-![](video.webm)
+![[video.mp4]]
+![[video.webm]]
 ```
 
 ### Embed in HTML
@@ -196,7 +196,7 @@ By default, Obsidian does not render its Markdown syntax inside HTML blocks. Qua
 
 ### Footnotes
 
-Footnotes using the `[^1]` syntax are fully supported through the [[GitHubFlavoredMarkdown]] plugin:
+Footnotes using the `[[GitHubFlavoredMarkdown|^1]] plugin:
 
 ```markdown
 Here is a sentence with a footnote.[^1]

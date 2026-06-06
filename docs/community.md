@@ -9,14 +9,14 @@ Quartz has a vibrant community of users and contributors. This page highlights c
 
 ## Community Plugins
 
-Third-party plugins that extend Quartz functionality. Install them with the [[cli/plugin|plugin CLI]]:
+Third-party plugins that extend Quartz functionality. Install them with the [[docs/cli/plugin|plugin CLI]]:
 
 ```bash
 npx quartz plugin add <github-url>
 ```
 
 <!-- Add community plugins here as they become available -->
-<!-- Format: - **[Plugin Name](link)** — Brief description -->
+<!-- Format: - **[[link|Plugin Name]]** — Brief description -->
 
 _No community plugins listed yet. Be the first to share yours!_
 
@@ -25,7 +25,7 @@ _No community plugins listed yet. Be the first to share yours!_
 Tools, scripts, and integrations built by the community to work with Quartz.
 
 <!-- Add tools here -->
-<!-- Format: - **[Tool Name](link)** — Brief description -->
+<!-- Format: - **[[link|Tool Name]]** — Brief description -->
 
 _No community tools listed yet._
 
@@ -34,7 +34,7 @@ _No community tools listed yet._
 Custom themes, CSS snippets, and starter templates for Quartz sites.
 
 <!-- Add templates/themes here -->
-<!-- Format: - **[Name](link)** — Brief description -->
+<!-- Format: - **[[link|Name]]** — Brief description -->
 
 _No community templates listed yet._
 
@@ -43,7 +43,7 @@ _No community templates listed yet._
 Community-written guides, blog posts, and tutorials about using Quartz.
 
 <!-- Add guides here -->
-<!-- Format: - **[Title](link)** by Author — Brief description -->
+<!-- Format: - **[[link|Title]]** by Author — Brief description -->
 
 _No community guides listed yet._
 

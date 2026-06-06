@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "content/Locations"
+views:
+  - type: list
+    name: View

@@ -111,7 +111,7 @@ Component.css = styles
 
 ### Internationalization
 
-Component plugins should use the i18n pattern for any user-facing strings. See [[making plugins#Internationalization (i18n)]] for the full setup guide.
+Component plugins should use the i18n pattern for any user-facing strings. See [[making plugins#Internationalization (i18n]]) for the full setup guide.
 
 Quick reference:
 

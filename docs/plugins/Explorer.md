@@ -14,7 +14,7 @@ File tree explorer sidebar.
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
-See [[plugins/Explorer]] for detailed usage information.
+See [[Explorer]] for detailed usage information.
 
 ## Configuration
 
@@ -60,7 +60,7 @@ ExternalPlugin.Explorer({
 })
 ```
 
-See [[features/explorer#Advanced customization]] for more examples.
+See [[Explorer#Advanced customization]] for more examples.
 
 ## API
 

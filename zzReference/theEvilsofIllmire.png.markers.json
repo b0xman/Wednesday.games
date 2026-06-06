@@ -1,0 +1,39 @@
+{
+  "size": {
+    "w": 365,
+    "h": 441
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "zzReference/theEvilsofIllmire.png",
+      "name": "The Evils of Illmire Map"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "zzReference/theEvilsofIllmire.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

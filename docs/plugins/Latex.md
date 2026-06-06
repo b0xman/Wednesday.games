@@ -9,7 +9,7 @@ enabled: true
 required: false
 ---
 
-This plugin adds LaTeX support to Quartz. See [[features/Latex|Latex]] for more information.
+This plugin adds LaTeX support to Quartz. See [[docs/features/Latex]] for more information.
 
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.

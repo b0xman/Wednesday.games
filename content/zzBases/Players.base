@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.folder.endsWith("Players")
+properties:
+  file.name:
+    displayName: Players
+  file.links:
+    displayName: Currently Playing
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Currently Playing
+    sort:
+      - property: Currently Playing
+        direction: ASC
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - file.links

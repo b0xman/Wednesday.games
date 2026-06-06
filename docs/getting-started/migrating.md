@@ -185,7 +185,7 @@ After verifying your site builds and deploys correctly, update your repository's
 This ensures that new clones, pull requests, and GitHub Pages deployments all target v5 by default. Your old v4 branch remains available for reference.
 
 > [!warning] Update your CI triggers
-> If your CI workflow triggers on a specific branch (e.g. `branches: [v4]`), make sure to update it to `v5`. See the [[hosting]] guide for examples.
+> If your CI workflow triggers on a specific branch (e.g. `branches: [[hosting|v4]] guide for examples.
 
 ## Notes for Quartz 3 Users
 

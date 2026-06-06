@@ -18,7 +18,7 @@ As Quartz uses [git](https://git-scm.com/) under the hood for versioning, upgrad
 > [!hint]
 > Quartz will try to cache your content before upgrading to try and prevent merge conflicts. If you get a conflict mid-merge, you can stop the merge and then run `npx quartz restore` to restore your content from the cache.
 
-If you have the [GitHub desktop app](https://desktop.github.com/), this will automatically open to help you resolve the conflicts. Otherwise, you will need to resolve this in a text editor like VSCode. For more help on resolving conflicts manually, check out the [GitHub guide on resolving merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line#competing-line-change-merge-conflicts).
+If you have the [GitHub desktop app](https://desktop.github.com/), this will automatically open to help you resolve the conflicts. Otherwise, you will need to resolve this in a text editor like VSCode. For more help on resolving conflicts manually, check out the [[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line#competing-line-change-merge-conflicts]].
 
 To update your installed plugins separately, use:
 
@@ -37,4 +37,4 @@ npx quartz plugin prune --dry-run  # preview what would be removed
 npx quartz plugin prune            # remove orphaned plugins
 ```
 
-See the [[cli/plugin#prune|plugin prune reference]] for more details.
+See the [[docs/cli/plugin#prune|plugin prune reference]] for more details.

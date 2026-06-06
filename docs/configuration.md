@@ -45,7 +45,7 @@ This part of the configuration concerns anything that can affect the whole site.
   - You will be prompted to set this during [[create|`npx quartz create`]]. The CLI automatically strips any `https://` or `http://` protocol prefixes and trailing slashes for you.
   - This should also include the subpath if you are [[hosting]] on GitHub pages without a custom domain. For example, if my repository is `jackyzha0/quartz`, GitHub pages would deploy to `https://jackyzha0.github.io/quartz` and the `baseUrl` would be `jackyzha0.github.io/quartz`.
   - Note that Quartz 5 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter _where_ you end up actually deploying it.
-- `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
+- `ignorePatterns`: a list of [[<https://en.wikipedia.org/wiki/Glob_(programming|glob]]>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
 - `theme`: configure how the site looks.
   - `fontOrigin`: where to load fonts from.
     - `"googleFonts"` (default): loads fonts from Google Fonts API. Fastest option, especially with CDN caching enabled.
@@ -157,7 +157,7 @@ To remove installed plugins that are no longer in your config:
 npx quartz plugin prune
 ```
 
-Both commands support `--dry-run` to preview changes. See [[cli/plugin|the plugin CLI reference]] for full details.
+Both commands support `--dry-run` to preview changes. See [[docs/cli/plugin|the plugin CLI reference]] for full details.
 
 ### Advanced Source Options
 
@@ -259,7 +259,7 @@ plugins:
 >
 > Options set in `quartz.ts` are merged with YAML options and take precedence. Plugin overrides must be placed **before** `loadQuartzConfig()` so they are applied when components are instantiated during config loading. See the plugin-specific documentation for available callback options.
 
-You can see a list of all plugins and their configuration options [[tags/plugin|here]].
+You can see a list of all plugins and their configuration options [[docs/tags/plugin|here]].
 
 If you'd like to make your own plugins, see the [[making plugins|making custom plugins]] guide.
 

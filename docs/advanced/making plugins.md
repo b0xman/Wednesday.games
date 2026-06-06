@@ -105,7 +105,7 @@ All transformer plugins must define at least a `name` field to register the plug
 
 Normally for both `remark` and `rehype`, you can find existing plugins that you can use. If you'd like to create your own `remark` or `rehype` plugin, checkout the [guide to creating a plugin](https://unifiedjs.com/learn/guide/create-a-plugin/) using `unified` (the underlying AST parser and transformer library).
 
-A good example of a transformer plugin that borrows from the `remark` and `rehype` ecosystems is the [[plugins/Latex|Latex]] plugin:
+A good example of a transformer plugin that borrows from the `remark` and `rehype` ecosystems is the [[docs/plugins/Latex]] plugin:
 
 ```ts
 import remarkMath from "remark-math"
@@ -739,10 +739,10 @@ npx quartz plugin prune --dry-run
 ```
 
 > [!tip]
-> Both `resolve` and `prune` fall back to `quartz.config.default.yaml` if no `quartz.config.yaml` is present. This is useful for CI environments where the default config is the source of truth. See [[cli/plugin#prune|prune]] and [[cli/plugin#resolve|resolve]] for full details.
+> Both `resolve` and `prune` fall back to `quartz.config.default.yaml` if no `quartz.config.yaml` is present. This is useful for CI environments where the default config is the source of truth. See [[docs/cli/plugin#prune|prune]] and [[docs/cli/plugin#resolve|resolve]] for full details.
 
 ## Component Plugins
 
 For plugins that provide visual components (like Explorer, Graph, Search), see the [[creating components|creating component plugins]] guide.
 
-Component-only plugins (those with `"category": ["component"]` in their manifest) are loaded via side-effect import rather than a factory function. If your component-only plugin needs to receive user options from `quartz.config.yaml`, export an `init(options)` function — see [[creating components#Receiving YAML Options in Component-Only Plugins|receiving YAML options]] for details.
+Component-only plugins (those with `"category": [[creating components#Receiving YAML Options in Component-Only Plugins|receiving YAML options]] for details.

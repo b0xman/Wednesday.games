@@ -14,7 +14,7 @@ Comment system (giscus, utterances, etc.).
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
-See [[plugins/Comments]] for detailed usage information.
+See [[Comments]] for detailed usage information.
 
 ## Configuration
 
