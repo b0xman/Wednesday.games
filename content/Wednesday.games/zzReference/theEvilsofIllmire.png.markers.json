@@ -28,7 +28,8 @@
       "hudModeY": "bottom",
       "hudLastWidth": 698,
       "hudLastHeight": 478,
-      "iconColor": "#82842a"
+      "iconColor": "#82842a",
+      "scaleLikeSticker": true
     },
     {
       "type": "pin",
