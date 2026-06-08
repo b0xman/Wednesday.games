@@ -1,20 +1,20 @@
 ---
 tags:
   - Character
-Location: "[Illmire](Illmire.md)"
+Location: "[[Locations/Illmire]]"
 ---
 # Zlatlow
 
-[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 
 ### Location
-[Illmire](Illmire.md)
+[[Locations/Illmire]]
 ### Description
 
 ### Related
-- Son of [Crellmont (current mayor|[current mayor)](current%20mayor)]]).md)
-- Distant relative to [Kalen](Kalen.md)
+- Son of [[current mayor|[current mayor)](current mayor|Crellmont (current mayor|[current mayor)]]]]).md)
+- Distant relative to [[Kalen]]
 
 ### Notes
 
-- possibly in league with [Father Rand](Father%20Rand.md)
+- possibly in league with [[Father Rand]]

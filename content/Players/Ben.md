@@ -1,7 +1,7 @@
 ---
-Currently Playing: "[Rune Harken](Rune%20Harken.md)"
+Currently Playing: "[[Rune Harken]]"
 tags:
   - Player
 ---
-[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 # Previous Characters

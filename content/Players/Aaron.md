@@ -1,7 +1,7 @@
 ---
-Currently Playing: "[Peerson Ryback](Peerson%20Ryback.md)"
+Currently Playing: "[[Peerson Ryback]]"
 tags:
   - Player
 ---
-[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 # Previous Characters

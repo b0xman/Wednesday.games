@@ -1,17 +1,17 @@
 ---
 tags:
   - Character
-Location: "[Illmire](Illmire.md)"
+Location: "[[Locations/Illmire]]"
 ---
 # Magnus - Blacksmith
 
-[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 
 ### Location
-[Illmire](Illmire.md)
+[[Locations/Illmire]]
 ### Description
 
 ### Notes
-- Wants to make a connection to [Obsidian Forge](Obsidian%20Forge.md)
+- Wants to make a connection to [[Locations/Obsidian Forge]]
 - Sells common gear
 

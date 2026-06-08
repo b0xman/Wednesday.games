@@ -1,14 +1,14 @@
 ---
 tags:
   - Character
-Location: "[Lumberjack Camp](Lumberjack%20Camp.md)"
+Location: "[[Locations/Lumberjack Camp]]"
 ---
 # Riggdorf
 
-[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
+[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
 
 ### Location
-[Lumberjack Camp](Lumberjack%20Camp.md)
+[[Locations/Lumberjack Camp]]
 ### Description
 7' tall
 

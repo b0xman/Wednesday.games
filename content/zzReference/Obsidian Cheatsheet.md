@@ -29,7 +29,7 @@ Links:
 [link text](https://example.com/)
 
 Images:
-![Alt Text](image-url)
+![[image-url|Alt Text]]
 
 Code:
 Inline - `code`

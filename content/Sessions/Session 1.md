@@ -1,31 +1,31 @@
 ---
 date: 2026-06-03
 Players Attended:
-  - "[Aaron](Aaron.md)"
-  - "[Alex](Alex.md)"
-  - "[Ben](Ben.md)"
-  - "[Charles](Charles.md)"
-  - "[Dave](Dave.md)"
-  - "[John](John.md)"
+  - "[[Players/Aaron]]"
+  - "[[Players/Alex]]"
+  - "[[Players/Ben]]"
+  - "[[Players/Charles]]"
+  - "[[Players/Dave]]"
+  - "[[Players/John]]"
 ---
 
 
-Written by [Ben](Ben.md)
+Written by [[Players/Ben]]
 
 Notes:
-The party came along the road, passing a carnival, and entered the town of [Illmire](Illmire.md). The villagers were all crowded at the town square where a priest named Father Rand was preaching about the sins of the villagers being the cause of an illness in the town. 
+The party came along the road, passing a carnival, and entered the town of [[Locations/Illmire]]. The villagers were all crowded at the town square where a priest named Father Rand was preaching about the sins of the villagers being the cause of an illness in the town. 
 
-Father Rand is in theory a priest of [Solarian](Solarian.md) the sun god but [Rune Harken](Rune%20Harken.md) informed the party that the priestess in town should be Nivendra and that Father Rand is reacting badly to the light of the sun being flashed in his eyes so he is likely not a true priest. 
+Father Rand is in theory a priest of [[Solarian]] the sun god but [[Rune Harken]] informed the party that the priestess in town should be Nivendra and that Father Rand is reacting badly to the light of the sun being flashed in his eyes so he is likely not a true priest. 
 
-[Farziduke](Farziduke.md) talked with a blacksmith and went drinking a bit along with Pearson at the Weary Wagoner Inn. 
+[[Farziduke]] talked with a blacksmith and went drinking a bit along with Pearson at the Weary Wagoner Inn. 
 
-[Soren](Soren.md) talked with [Wendelyn](Wendelyn.md) the grieving old lady, who's husband [Buwelle](Buwelle.md) and son [Ruskin](Ruskin.md) are impacted by the illness. She was also sick, showing that she is losing hair. The symptoms also include some kind of paranoia. 
+[[Soren]] talked with [[Wendelyn]] the grieving old lady, who's husband [[Buwelle]] and son [[Ruskin]] are impacted by the illness. She was also sick, showing that she is losing hair. The symptoms also include some kind of paranoia. 
 
-[Kalen](Kalen.md) went to report for service to Mayor Crellmont. The Mayor is also very sick. His son [Zlatlow](Zlatlow.md) is apparently in league with Father Rand, as is Captain of the guard Frey. The Mayor doesn't trust them and instead sent Kalen to go meet with [Riggdorf](Riggdorf.md), a Knight in the local [Lumberjack Camp](Lumberjack%20Camp.md) and ???, the former captain of the guards in a nearby tower. 
+[[Kalen]] went to report for service to Mayor Crellmont. The Mayor is also very sick. His son [[Zlatlow]] is apparently in league with Father Rand, as is Captain of the guard Frey. The Mayor doesn't trust them and instead sent Kalen to go meet with [[Riggdorf]], a Knight in the local [[Locations/Lumberjack Camp]] and ???, the former captain of the guards in a nearby tower. 
 
 Rune tried to look around the Temple of the Luminal star but some fake priests were guarding it and Father Rand came quickly and prevented any snooping. 
 
-Farziduke and [Peerson Ryback](Peerson%20Ryback.md) then went off to [Frey, Captain of the guard](Frey,%20Captain%20of%20the%20guard.md) and returned with marks on their neck, not clearly answering what kind of work they got for money. Nothing suspicious about that. 
+Farziduke and [[Peerson Ryback]] then went off to [[Frey, Captain of the guard]] and returned with marks on their neck, not clearly answering what kind of work they got for money. Nothing suspicious about that. 
 
 The party then rested in the Weary Wagoner Inn. 
 
