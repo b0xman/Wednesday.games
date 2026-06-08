@@ -1,7 +1,7 @@
 ---
-Currently Playing: "[[Farziduke]]"
+Currently Playing: "[Farziduke](Farziduke.md)"
 tags:
   - Player
 ---
-[[quartz/content/Index|Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](quartz/content/Index) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 # Previous Characters

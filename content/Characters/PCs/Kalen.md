@@ -4,7 +4,7 @@ tags:
 ---
 # Kalen
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 **Played By:**
 John
@@ -12,7 +12,7 @@ John
 **Class:**
 ### Description
 ### Drive
-Need to pay debt to [[Kalen]]
+Need to pay debt to [Kalen](Kalen.md)
 ### Notes
 
 

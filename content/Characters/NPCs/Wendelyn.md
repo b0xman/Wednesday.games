@@ -1,21 +1,21 @@
 ---
 tags:
   - Character
-Location: "[[Illmire]]"
+Location: "[Illmire](Illmire.md)"
 ---
 # Wendelyn
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 ### Location
-[[Illmire]]
+[Illmire](Illmire.md)
 
 ### Description
 
 ### Notes
 
 ### Related
-- Wife to [[Buwelle]]
-- Mother to [[Ruskin]]
+- Wife to [Buwelle](Buwelle.md)
+- Mother to [Ruskin](Ruskin.md)
 
 

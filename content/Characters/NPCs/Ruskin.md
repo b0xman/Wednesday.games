@@ -1,14 +1,14 @@
 ---
 tags:
   - Character
-Location: "[[Illmire]]"
+Location: "[Illmire](Illmire.md)"
 ---
 # Ruskin
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 ### Location
-[[Illmire]]
+[Illmire](Illmire.md)
 
 ### Description
 
@@ -16,4 +16,4 @@ Location: "[[Illmire]]"
 - sick
 
 ### Related
-- Son to [[Buwelle]] and [[Wendelyn]]
+- Son to [Buwelle](Buwelle.md) and [Wendelyn](Wendelyn.md)

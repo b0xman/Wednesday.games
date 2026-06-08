@@ -1,21 +1,21 @@
 ---
 tags:
   - Character
-Location: "[[Illmire]]"
+Location: "[Illmire](Illmire.md)"
 ---
 # Crellmont (current mayor)
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 ### Location
-[[Illmire]]
+[Illmire](Illmire.md)
 ### Description
 
 ### Related
-- Related to [[Kalen]]
-- Father to [[Zlatlow]]
+- Related to [Kalen](Kalen.md)
+- Father to [Zlatlow](Zlatlow.md)
 ### Notes
-- Current mayor to [[Illmire]]
+- Current mayor to [Illmire](Illmire.md)
 - Sick with disease, possibly close to death
-- Doesn't trust [[Father Rand]], [[Frey, Captain of the guard]], or [[Zlatlow]]
-- asked [[Kalen]] to meet with [[Riggdorf]] a former knight to take mayorship after he has died
+- Doesn't trust [Father Rand](Father%20Rand.md), [Frey, Captain of the guard](Frey,%20Captain%20of%20the%20guard.md), or [Zlatlow](Zlatlow.md)
+- asked [Kalen](Kalen.md) to meet with [Riggdorf](Riggdorf.md) a former knight to take mayorship after he has died

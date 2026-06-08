@@ -6,7 +6,7 @@ marker:
 ---
 # Lumberjack Camp
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 ### Description
 
@@ -15,7 +15,7 @@ marker:
 
 # Characters
 
-![[Characters in Lumberjack Camp.base]]
+![Characters in Lumberjack Camp](Characters%20in%20Lumberjack%20Camp.base)
 # Challenges
 
 - [ ] Fishmen from the local lake are invading the camp and stealing various items and food

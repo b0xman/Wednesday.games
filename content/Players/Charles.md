@@ -1,7 +1,7 @@
 ---
-Currently Playing: "[[Soren]]"
+Currently Playing: "[Soren](Soren.md)"
 tags:
   - Player
 ---
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 # Previous Characters

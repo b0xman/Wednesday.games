@@ -6,7 +6,7 @@ marker:
 ---
 # Illmire
 
-[[Index]] | [[Characters.base | NPCs]] | [[Locations.base | Locations]]
+[Index](Index.md) | [ NPCs](Characters.base%20) | [ Locations](Locations.base%20)
 
 ### Description
 
@@ -14,7 +14,7 @@ marker:
 
 # Characters
 
-![[Characters in Illmire.base]]
+![Characters in Illmire](Characters%20in%20Illmire.base)
 # Challenges
 
 - [ ] Woods are infested by mantis-men and froglings
