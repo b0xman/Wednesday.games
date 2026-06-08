@@ -12,7 +12,7 @@ Location: "[[Illmire]]"
 ### Description
 
 ### Related
-- Son of [[current mayor)](current mayor|Crellmont (current mayor)]]).md)
+- Son of [[current mayor|Crellmont (current mayor|[current mayor)]]]]).md)
 - Distant relative to [[Kalen]]
 
 ### Notes
